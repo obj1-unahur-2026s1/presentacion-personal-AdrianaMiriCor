@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Adriana
+- Vivo en San Miguel
 
 
 ### Otra Información
