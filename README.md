@@ -7,7 +7,7 @@
 - Mi nombre es: Adriana
 - Vivo en San Miguel
 -Tengo 35 años
--Soy Tecnica en seguridad e higiene, terminando la tesis de la licenciatura, tambein 
+-Soy Tecnica en seguridad e higiene, terminando la tesis de la licenciatura, tambien 
 tengo un emprendimiento donde hice cursos de peluqueria, color, depilacion, tratamientos 
 reductores, estudie una tecnicatura y un master internacional de uñas, dicto clases de 
 eso también. 
